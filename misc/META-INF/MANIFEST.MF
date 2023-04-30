@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: com.codingcrafters.DesktopLauncher
+Specification-Title: quantum-snapper
+Specification-Version: 0.1
+Specification-Vendor: com.codingcrafters
+Implementation-Title: quantum-snapper
+Implementation-Version: 0.1
+Implementation-Vendor: com.codingcrafters
+Implementation-Vendor-Id: com.codingcrafters
+
